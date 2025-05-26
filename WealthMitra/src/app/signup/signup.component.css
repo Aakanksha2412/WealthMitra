@@ -1,0 +1,8 @@
+.container{
+    background: rgb(121, 155, 182);
+    background: linear-gradient(90deg, hsla(205, 46%, 30%, 1) 0%, rgb(102, 86, 136)100%);
+}
+
+.containerp-5, .col-md-2, .col-md-4,.col-md-6, .col-md-10, .col-12{
+    color: aliceblue;
+}

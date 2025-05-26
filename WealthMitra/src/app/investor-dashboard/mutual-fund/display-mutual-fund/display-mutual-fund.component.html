@@ -1,0 +1,58 @@
+
+<button><a href="/addmutualfund">Add Mutual Fund</a></button>
+<div class class="title">
+   <h3>Mutual Fund</h3>
+   
+   </div>
+   <div class="profileInfo">
+
+
+<table  style="width:100%">
+   <tr>
+
+      <td>Id</td>
+  
+      <td>Name</td>
+  
+      <td>Buy/Sell Price</td>
+  
+      <td>Current Price</td>
+  
+      <td>Quantity</td>
+
+      <td>Total Value</td>
+
+      <td>ROI</td>
+
+      <td>Profit/Loss</td>
+      </tr>
+  
+      <tr>
+  
+          <div *ngFor="let mutual of mutuals">
+  
+              <td>{{mutual.id}}</td>
+  
+              <td>{{mutual.name}}</td>
+  
+              <td>{{mutual.buySellPrice}}</td>
+  
+              <td>{{mutual.currentPrice}}</td>
+  
+              <td>{{mutual.quantity}}</td>
+
+              <td>{{mutual.TotalValue}}</td>
+
+              <td>{{mutual.ROI}}</td>
+
+              <td>{{mutual.PL}}</td>
+  
+              <td><button>Delete</button></td>
+  
+          </div>
+  
+      </tr>
+  
+</table>
+
+</div>

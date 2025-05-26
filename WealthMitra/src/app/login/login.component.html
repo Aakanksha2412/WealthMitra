@@ -1,0 +1,20 @@
+
+   <div class="box">
+   <form #loginForm="ngForm" (ngSubmit)="onValidate(loginForm.value)">
+
+    <h1>Login Here! </h1><br>
+    <label style="color: aliceblue;"><b>Email Address</b></label>
+    <input type="email" name="username" [(ngModel)]="user.username" required>
+
+    <label style="color: aliceblue;"><b>Password</b></label>
+    <input type="password" name="password" [(ngModel)]="user.password" required>
+
+    <button [disabled]="!loginForm.form.valid" routerLink = "/dashboard" type="submit"><b>Login</b></button><br><br>
+  
+    <p><input type="checkbox" checked="checked" name="remember"> Remember me</p>
+    <span><a style ="color:rgb(247, 240, 240)" routerLink = "/signup">New User? Please SignUp Here</a></span>
+     
+</form>
+</div>
+  
+  

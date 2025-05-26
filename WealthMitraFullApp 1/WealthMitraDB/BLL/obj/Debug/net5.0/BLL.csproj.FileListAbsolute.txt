@@ -1,0 +1,136 @@
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\FullStack\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\BOL.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\BLL\obj\Debug\net5.0\BLL.pdb

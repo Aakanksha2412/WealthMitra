@@ -1,0 +1,98 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fname": "Gayatri",
+      "mname": "Gayatri",
+      "lname": "Gayatri",
+      "email": "ravi.tambade@transflower.in",
+      "aemail": "ravi.tambade@transflower.in",
+      "mnumber": "ravi.tambade@transflower.in",
+      "amnumber": "ravi.tambade@transflower.in",
+      "pan": "Gayatri",
+      "aadhar": "Gayatri",
+      "dob": "11/08/1999",
+      "age": "22",
+      "gender": "male",
+      "ms": "unmarried",
+      "add1": "abc",
+      "add2": "abc",
+      "pincode": "",
+      "uname": "gayu@1108",
+      "password": "Gayu@1199",
+      "id": 1
+    },
+    {
+      "fname": "Amey",
+      "mname": "Prakash",
+      "lname": "Jadhav",
+      "email": "ameyjdhv@gmail.com",
+      "aemail": "ameyjdhv.11@gmail.com",
+      "mnumber": "9923103326",
+      "amnumber": "7499508114",
+      "pan": "BNEPJ3495C",
+      "aadhar": "3998 3456 6787",
+      "dob": "11/08/1999",
+      "age": "22",
+      "gender": "male",
+      "ms": "unmarried",
+      "add1": "Ram Rahim Park Kagal",
+      "add2": "Pune-Banglore highway kolhapur",
+      "pincode": "416216",
+      "uname": "Gayu11",
+      "password": "Gayu1108",
+      "id": 2
+    },
+    {
+      "fname": "Kanaad",
+      "mname": "Sanjay",
+      "lname": "Rampurkar",
+      "email": "ravi.tambade@transflower.in",
+      "aemail": "ravi.tambade@transflower.in",
+      "mnumber": "9421069916",
+      "amnumber": "7499508114",
+      "pan": "BNEPJ3476C",
+      "aadhar": "3998 7887 8998",
+      "dob": "2/11/2021",
+      "age": "22",
+      "gender": "male",
+      "ms": "unmarried",
+      "add1": "Ram Rahim Park Kagal",
+      "add2": "Ram Rahim Park Kagal",
+      "pincode": "",
+      "uname": "Kanaad",
+      "password": "Kanaad@123",
+      "id": 3
+    },
+    {
+      "fname": "Vedashree",
+      "mname": "Pravin",
+      "lname": "Nilare",
+      "email": "vedashree@gmail.com",
+      "aemail": "vedashree.1@gmail.com",
+      "mnumber": "7499508114",
+      "amnumber": "9923103326",
+      "pan": "BNEPJ3495C",
+      "aadhar": "7678 8998 6565",
+      "dob": "1/08/1999",
+      "age": "22",
+      "gender": "male",
+      "ms": "unmarried",
+      "add1": "Pune",
+      "add2": "Pune",
+      "pincode": "415601",
+      "uname": "vedashree",
+      "password": "vedu@123",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

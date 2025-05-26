@@ -1,0 +1,114 @@
+<div class ="container">
+<div class="container p-5">
+  <h1 class="mt-2 mb-5 text-center" style="color: rgb(244, 246, 248);">Sign Up Here!</h1>
+  <form class="row g-3" [formGroup]="registerForm" (ngSubmit)="signUp()">
+
+    <div class="col-md-4">
+      <label for="inputEmail4" class="form-label">First Name</label>
+      <input type="text" formControlName="fname" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-4">
+      <label for="inputEmail4" class="form-label">Middle Name</label>
+      <input type="text" formControlName="mname" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-4">
+      <label for="inputEmail4" class="form-label">Last Name</label>
+      <input type="text" formControlName="lname" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label">Email-ID</label>
+      <input type="email" formControlName="email" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label"> Alternate Email-ID</label>
+      <input type="email" formControlName="aemail" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label">Mobile Number</label>
+      <input type="text" formControlName="mnumber" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label"> Alternate Mobile Number</label>
+      <input type="text" formControlName="amnumber" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label">PAN Card Number</label>
+      <input type="text" formControlName="pan" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label">Aadhar Card Number</label>
+      <input type="text" formControlName="aadhar" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label">Date Of Birth</label>
+      <input type="text" formControlName="dob" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputEmail4" class="form-label">Age</label>
+      <input type="text" formControlName="age" class="form-control" id="inputEmail4">
+    </div>
+
+    <div class="col-md-6">
+      <label for="inputGender" class="form-label">Gender</label>
+      <select id="inputGender" class="form-select" formControlName="gender">
+        <option value="male">Male</option>
+        <option value="male">Female</option>
+        <option value="male">Gender Diverse</option>
+      </select>
+    </div>
+    
+    <div class="col-md-6">
+      <label for="inputmaritialstatus" class="form-label">Maritial Status</label>
+      <select id="inputmaritialstatus" class="form-select" formControlName="ms">
+        <option value="married">Married</option>
+        <option value="unmarried">Unmarried</option>
+      </select>
+    </div>
+
+    <div class="col-12">
+      <label for="inputAddress" class="form-label">AddressLine1</label>
+      <input type="text" formControlName="add1" class="form-control" id="inputAddress" >
+    </div>
+
+    <div class="col-md-10">
+      <label for="inputAddress" class="form-label">AddressLine2</label>
+      <input type="text" formControlName="add2" class="form-control" id="inputAddress">
+    </div>
+
+    <div class="col-md-2">
+      <label for="inputZip" class="form-label">Pincode</label>
+      <input type="text" formControlName="pincode" class="form-control" id="inputZip">
+    </div>
+
+    <div class="col-md-6" > 
+      <label for="inputEmail4" class="form-label"> Username</label>
+      <input type="text" formControlName="uname" class="form-control" id="inputEmail4">
+      </div>
+
+    <div class="col-md-6">
+      <label for="inputPassword4" class="form-label">Password</label>
+      <input type="password" formControlName="password" class="form-control" id="inputPassword4">
+    </div>
+    
+    
+    <div class="col-md-2">
+      <button type="submit" [disabled] ="!registerForm.valid" class="btn btn-primary">SignUp</button>
+    </div>
+
+    <div class="col-md-2">
+      <button type="reset" class="btn btn-primary">Cancel</button>
+    </div>
+  </form>
+  <a style ="color:rgb(248, 242, 242)" routerLink = "/login">Already Register? Please Login Here</a>
+</div>
+</div>

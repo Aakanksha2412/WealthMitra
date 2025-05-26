@@ -1,0 +1,377 @@
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\ProjectAPi\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Dapper.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Dapper.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FullStack\WealthMitraDB\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Dapper.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\Users\shubham.premi\Downloads\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Dapper.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\FinalWM\WealthMitraDB (2)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Dapper.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\FullStack\wealthmitra\WealthMitraDB (10)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Dapper.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\FinalWealthMitra\WealthMitraDB (1)\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\appsettings.json
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.exe
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.deps.json
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.json
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.runtimeconfig.dev.json
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\ref\WealthMitra.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\WealthMitra.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Dapper.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Certificate.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BOL.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\BLL.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\bin\Debug\net5.0\DAL.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.AssemblyReference.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfoInputs.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.AssemblyInfo.cs
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CoreCompileInputs.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.Manifest.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\staticwebassets\WealthMitra.StaticWebAssets.xml
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\scopedcss\bundle\WealthMitra.styles.css
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.RazorTargetAssemblyInfo.cache
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.csproj.CopyComplete
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\ref\WealthMitra.dll
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.pdb
+C:\Users\avip.patil\Downloads\WealthMitraFinal\WealthMitraDB\WealthMitra\obj\Debug\net5.0\WealthMitra.genruntimeconfig.cache

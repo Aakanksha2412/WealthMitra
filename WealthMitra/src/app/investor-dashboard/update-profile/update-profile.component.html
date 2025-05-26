@@ -1,0 +1,160 @@
+<div class="topnav">
+        
+    <a href="/dashboard">Dashboard</a>
+    <a href="/">Stocks</a>
+    <a href="/">Mutual Funds</a>
+    <a routerLink="/registerassets">Register assets</a> 
+    <a class="active" routerLink="/profile">Profile</a> 
+    <a class="logout" href="/home">LogOut</a>
+
+ 
+</div>
+<div  class="title">
+    <h3>Update Details</h3>
+    
+</div>
+<div class="updateForm">
+<form [formGroup] = "updateForm" (ngSubmit)="update()">
+    <table>
+        <tr>
+            <td>
+                <label>First Name</label>
+            </td>
+            <td>
+                <input type="text" name="firstName" value="osama">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Middle Name</label>
+            </td>
+            <td>    
+                <input type="text" name="middleName" value="bin">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Last Name</label>
+            </td>
+            <td>    
+                <input type="text" name="lastName" value="Laden">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Email</label>
+            </td>
+            <td>
+                <label>osama@lovesusa.com</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Mobile Number</label>
+            </td>
+            <td>
+                <label>911</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Atenate Number</label>
+            </td>
+            <td>
+                <input type="number" name="alternateNumber" value="100">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Age</label>
+            </td>
+            <td>
+                <input type="number" name="age" value="56">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>PAN</label>
+            </td>
+            <td>
+                <label>ASDF1234l</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Gender</label>
+            </td>
+            <td>
+                <select>
+                    <option>Male</option>
+                    <option>Female</option>
+                    <option>Transgender</option>
+                    <option>Hide</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Date of Birth</label>
+            </td>
+            <td>
+                <label>10/03/1957</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Marital Status</label>
+            </td>
+            <td>
+                <select>
+                    <option>Married</option>
+                    <option>Unmarried</option>
+                    <option>Divorced</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Address Line 1</label>
+            </td>
+            <td>    
+                <label>Ottamabad </label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Address Line 2</label>
+            </td>
+            <td>
+                <label>Pakistan</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Pin Code</label>
+            </td>
+            <td>
+                <label>401200 </label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Aadhar ID</label>
+            </td>
+            <td>
+                <label>100691889203 </label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                
+            </td>
+            <td>
+                <button type="submit">Update</button>
+            </td>
+        </tr>
+        
+    </table>
+</form>
+
+</div>

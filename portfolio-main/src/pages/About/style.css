@@ -1,0 +1,104 @@
+.timeline-container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.timeline-item {
+    position: relative;
+    width: 50%;
+    margin: 20px 0;
+    padding-left: 50px; /* To position the circle */
+}
+
+.timeline-item-content {
+    background-color: #fff;
+    color:#555;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.tag {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 20px;
+    color: black !important;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+time {
+    display: block;
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+
+
+.timeline-item:nth-child(odd) {
+    left: 50%;
+}
+
+.timeline-item:nth-child(even) {
+    left: 0;
+}
+
+.timeline-item a {
+    color: #018f69;
+    text-decoration: none;
+}
+
+.timeline-item a:hover {
+    text-decoration: underline;
+}
+/* Timeline Styles */
+
+
+.vertical-timeline-element-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333; /* Custom text color */
+}
+
+.vertical-timeline-element-subtitle {
+    font-size: 1rem;
+    color: #555; /* Custom subtitle text color */
+}
+
+.vertical-timeline-element-content {
+    background-color: #f1f1f1;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.vertical-timeline-element-date {
+    font-size: 0.9rem;
+    color: white;
+}
+
+.vertical-timeline-element-icon {
+     /* Custom icon color */
+    border-radius: 50%;
+    color: white;
+}
+
+.vertical-timeline-element-icon i {
+    font-size: 20px;
+}
+
+/* Overwrite the link styles */
+.vertical-timeline-element-subtitle a {
+    color: #1cc88a;
+    text-decoration: none;
+}
+
+.vertical-timeline-element-subtitle a:hover {
+    text-decoration: underline;
+}
+.vertical-timeline-element-tag {
+   
+    color: black !important; /* Change the text color if needed */
+  }
