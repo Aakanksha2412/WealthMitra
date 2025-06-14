@@ -33,10 +33,11 @@ WealthMitra simulates a real-world financial advisory system, implementing moder
 
 ```bash 
 WealthMitra/
-├── client/ # Angular frontend code
-├── server/ # .NET Core API backend
-├── database/ # SQL schema and seed scripts
-├── docs/ # SRS & architecture diagrams
+├── src/ # Angular frontend code
+WealthMitraFullApp1
+├── WealthMitraDB/ # .NET Core API backend
+├── FinalSQLData/ # SQL schema and seed scripts
+├── docs/ # SRC document & architecture diagrams
 └── README.md
 ```
 
