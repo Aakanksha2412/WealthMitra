@@ -31,7 +31,7 @@ WealthMitra simulates a real-world financial advisory system, implementing moder
 
 ## 📌 Project Structure
 
-bash ```
+```bash 
 WealthMitra/
 ├── client/ # Angular frontend code
 ├── server/ # .NET Core API backend
